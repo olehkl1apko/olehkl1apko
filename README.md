@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oleh Klipko
+- 👋 Hi, I’m Oleh Kliapko
 - 👀 I’m interested in React and Next
 - 🌱 I’m currently learning Next
 
