@@ -22,6 +22,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:1024/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" width="60" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XIMVb4ZQRfSS4ZnI6WfH0Q.jpeg" width="130" height="60">
 <img src="https://markup-ua.com/blog/wp-content/uploads/2023/08/tailwind.jpg" width="120" height="60">
+<img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*q0emKRBNI0Sv_NseTYRDwg.png" width="80" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="60" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="60" height="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="60" height="60">
