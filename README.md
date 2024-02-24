@@ -13,6 +13,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1044/format:webp/1*NJSv6DGoKTloI8d8im98zg.png" width="100" height="60">
 <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="100" height="60">
+<img src="https://decode.agency/wp-content/webp-express/webp-images/uploads/2023/05/React-Query-logo.png.webp" width="100" height="60">
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AJpFZrofvxMn3MHh9p3i_Q.jpeg" width="120" height="60">
 <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png" width="140" height="60">
 <img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=1000&h=667&fit=clip&auto=format" width="100" height="60">
