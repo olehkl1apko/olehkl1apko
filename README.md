@@ -2,7 +2,7 @@
 
 ⚡ I'm Frontend Developer in Incode Group and also can communicate in English.
 
-🌱 I'm currently learning Next, improve my knowledge of React and Typescript.
+🌱 I'm currently learning Next, improving my knowledge of React and Typescript.
 
 #### 📫 How to reach me:
 - [Telegram](https://t/me/Bayraktar_OK)
