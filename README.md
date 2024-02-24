@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ⚡ I'm Frontend Developer in Incode Group and also can communicate in English.
+
 🌱 I'm currently learning Next, improve my knowledge of React and Typescript.
 
 #### 📫 How to reach me:
