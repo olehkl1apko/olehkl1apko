@@ -4,6 +4,8 @@
 
 🌱 I'm currently learning Next, improving my knowledge of React and Typescript.
 
+See [my portfolio](https://my-portfolio-five-iota-65.vercel.app/)
+
 #### 📫 How to reach me:
 - [Telegram](https://t/me/Bayraktar_OK)
 - kliapko.oleh.dev@gmail.com
